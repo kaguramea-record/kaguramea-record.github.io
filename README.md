@@ -34,7 +34,7 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 
 ## 更新记录
 
-### 本月
+### 最近
 
 ```
 4月24日23点28 突击读空气 已同步 B站弹幕附
@@ -43,35 +43,9 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 位于/LiveRecord/KaguraMea/201904/20190424_2100
 4月24日5点45 T99+Splatoon+你开车像阿夸+麻将 已同步 B站弹幕附
 位于/LiveRecord/KaguraMea/201904/20190424_0545
-4月19日19点 めあくあPUBG 夸哥视角(断联严重,一堆文件) 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190419_1900
-4月19日19点 めあくあPUBG 庄司视角 已同步
-位于/LiveRecord/MinatoAqua/201904/20190419_1900
-4月18日14点24 突击放卫星+唱歌+sv 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190418_1424
-4月16日15点50 继 续 唱 歌 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190416_1550
-4月16日14点20 突击麻将 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190416_1420
-4月15日21点20 突击 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190415_2120
-4月14日22点 涵一乐线下活动感想相关(部分) 已同步 感谢5ec1cff录制
-位于/LiveRecord/LeyiHan/20190414_2245
-4月15日20点 乐一涵线下活动repo 已同步 B站弹幕附
-位于/LiveRecord/LeyiHan/20190415_2000
-4月10日18点 REALITY联动 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190410_1800
-4月9日10点10 突击PUBG 已同步
-位于/LiveRecord/KaguraMea/201904/20190409_1010
-4月6日2点10分 安定的半夜突击 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190406_0210
-4月4日2点35 半夜突击 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190404_0235
-4月3日20点37 6万纪念预告了也继续突击时间只是填一下意思意思 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190403_2037
 ```
 
-### 一个月之前
+### 先前
 
 [changelog.log](https://raw.githubusercontent.com/Kafuziroh/kaguramea-record/master/changelog.log)
 
