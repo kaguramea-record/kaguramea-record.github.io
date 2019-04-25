@@ -26,7 +26,7 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 
 ## 联系方式
 
-[GitHub Issue](https://github.com/Kafuziroh/kaguramea-record/issues/new/choose)
+[GitHub Issue](https://github.com/kaguramea-record/kaguramea-record.github.io/issues/new/choose)
 
 [NGA原发布帖「https://bbs.nga.cn/read.php?tid=16664942」](https://bbs.nga.cn/read.php?tid=16664942)
 
@@ -47,7 +47,7 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 
 ### 先前
 
-[changelog.log](https://raw.githubusercontent.com/Kafuziroh/kaguramea-record/master/changelog.log)
+[changelog.log](https://raw.githubusercontent.com/kaguramea-record/kaguramea-record.github.io/master/changelog.log)
 
 ## 视频弹幕回放问题可能解决方案
 
