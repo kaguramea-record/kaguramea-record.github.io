@@ -1,11 +1,11 @@
->1. About
+>1. 关于
 >2. 下载地址
 >3. 联系方式
 >4. 更新记录
 >5. 视频弹幕回放问题可能解决方案
->6. Acknowledgements & Credits
+>6. 鸣谢
 
-## About
+## 关于
 
 补丁哥说可以单开就单开了。一般在直播结束后的半小时以内会同步，在等待官方录播期间可以看看，算是众多录播备份中的一个网盘分流吧。内容**按月份分文件夹**，夸哥目录由于播爆，不保证更新（求有能man。之所以说是半自动录播，因为经常会出奇怪的问题，有问题的会在一段时间后尽快补上，**联系方式**见下文。
 
@@ -37,6 +37,8 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 ### 最近
 
 ```
+4月26日19点 夸哥B限withMea 已同步 B站弹幕附
+位于/LiveRecord/MinatoAqua/201904/20190426_1900
 4月24日23点28 突击读空气 已同步 B站弹幕附
 位于/LiveRecord/KaguraMea/201904/20190424_2328
 4月24日21点 30W B限 已同步 B站弹幕附
@@ -57,7 +59,7 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 
 3. [转封装示意图](https://raw.githubusercontent.com/Kafuziroh/picbkp/master/20190415/-zue37Q5-2wqzK1yT3cSjz-m3.png)
 
-## Acknowledgements & Credits
+## 鸣谢
 
 [Streamlink](https://github.com/streamlink/streamlink) / [youtube-dl](https://github.com/ytdl-org/youtube-dl) / [livedl](https://github.com/himananiito/livedl) / [live-stream-recorder](https://github.com/printempw/live-stream-recorder) / [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) / [Auto_Record_Matsuri](https://github.com/fzxiao233/Auto_Record_Matsuri) / [B站录播机](http://live.weibo333.com/s/7viudi3BE)
 
