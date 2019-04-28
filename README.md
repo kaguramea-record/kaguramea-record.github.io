@@ -1,13 +1,23 @@
 >1. 关于
->2. 下载地址
->3. 联系方式
->4. 更新记录
->5. 视频弹幕回放问题可能解决方案
->6. 鸣谢
+>2. 寻求帮助
+>3. 下载地址
+>4. 联系方式
+>5. 更新记录
+>6. **视频弹幕回放问题可能解决方案**
+>7. 鸣谢
 
 ## 关于
 
 补丁哥说可以单开就单开了。一般在直播结束后的半小时以内会同步，在等待官方录播期间可以看看，算是众多录播备份中的一个网盘分流吧。内容**按月份分文件夹**，夸哥目录由于播爆，不保证更新（求有能man。之所以说是半自动录播，因为经常会出奇怪的问题，有问题的会在一段时间后尽快补上，**联系方式**见下文。
+
+## 寻求帮助
+
+当前正在进行的任务如下：
+
+* 「长期」[GitHub Issues](https://github.com/kaguramea-record/kaguramea-record.github.io/issues)
+* 「长期」2019年2月之前的录播补全计划
+
+如果有人能提供帮助的话非常感谢！
 
 ## 下载地址
 
@@ -18,7 +28,7 @@
 [BiliLocal「本地弹幕播放」](https://pan.baidu.com/s/1Oi89yTLGZoIQveYj6Ivkrg) 提取码：dbed
 
 ```
-{date}_{time}.mp4 B站视频流
+{date}_{time}.flv/mp4 B站视频流
 {date}_{time}.xml B站弹幕文件
 youtube_{id}_{date}_{time}.ts 油管视频流
 youtube_{id}_{date}_{time}.info.txt 油管视频信息
@@ -37,14 +47,14 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 ### 最近
 
 ```
-4月26日19点 夸哥B限withMea 已同步 B站弹幕附
-位于/LiveRecord/MinatoAqua/201904/20190426_1900
-4月24日23点28 突击读空气 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190424_2328
-4月24日21点 30W B限 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190424_2100
-4月24日5点45 T99+Splatoon+你开车像阿夸+麻将 已同步 B站弹幕附
-位于/LiveRecord/KaguraMea/201904/20190424_0545
+04.26 19:00 【夸哥B限withMea】 B站弹幕附
+/LiveRecord/MinatoAqua/201904/20190426_1900
+
+04.24 23:28 【突击读空气】 B站弹幕附
+/LiveRecord/KaguraMea/201904/20190424_2328
+
+04.24 21:00 【30WB限】 B站弹幕附
+/LiveRecord/KaguraMea/201904/20190424_2100
 ```
 
 ### 先前
