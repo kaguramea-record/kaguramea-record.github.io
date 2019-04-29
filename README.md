@@ -50,11 +50,8 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 04.26 19:00 【夸哥B限withMea】 B站弹幕附
 /LiveRecord/MinatoAqua/201904/20190426_1900
 
-04.24 23:28 【突击读空气】 B站弹幕附
+04.24 23:28 【突击读空气】 B站弹幕附 KYすぎて無職になったことありますｗｗｗｗｗ(現在進行形)
 /LiveRecord/KaguraMea/201904/20190424_2328
-
-04.24 21:00 【30WB限】 B站弹幕附
-/LiveRecord/KaguraMea/201904/20190424_2100
 ```
 
 ### 先前
