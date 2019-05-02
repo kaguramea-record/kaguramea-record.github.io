@@ -47,6 +47,9 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 ### 最近
 
 ```
+05.02 12:00 【联动101】 B站弹幕附 【B站限】直播 meaqua一起玩LOL
+/LiveRecord/MinatoAqua/201905/20190502_1200
+
 04.26 19:00 【夸哥B限withMea】 B站弹幕附
 /LiveRecord/MinatoAqua/201904/20190426_1900
 
@@ -68,6 +71,6 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 
 ## 鸣谢
 
-[Streamlink](https://github.com/streamlink/streamlink) / [youtube-dl](https://github.com/ytdl-org/youtube-dl) / [livedl](https://github.com/himananiito/livedl) / [live-stream-recorder](https://github.com/printempw/live-stream-recorder) / [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go) / [Auto_Record_Matsuri](https://github.com/fzxiao233/Auto_Record_Matsuri) / [B站录播机](http://live.weibo333.com/s/7viudi3BE)
+[Streamlink](https://github.com/streamlink/streamlink){:target="_blank"} / [youtube-dl](https://github.com/ytdl-org/youtube-dl){:target="_blank"} / [livedl](https://github.com/himananiito/livedl){:target="_blank"} / [live-stream-recorder](https://github.com/printempw/live-stream-recorder){:target="_blank"} / [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go){:target="_blank"} / [Auto_Record_Matsuri](https://github.com/fzxiao233/Auto_Record_Matsuri){:target="_blank"} / [B站录播机](http://live.weibo333.com/s/7viudi3BE){:target="_blank"}
 
 ![](https://raw.githubusercontent.com/Kafuziroh/picbkp/master/20190415/-zue37Q5-gddqK7ToS88-27.png)
