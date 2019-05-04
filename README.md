@@ -47,14 +47,11 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 ### 最近
 
 ```
+05.04 18:15 【突击杂谈】 B站弹幕附 GWで散な目にあいました
+/LiveRecord/KaguraMea/201905/20190504_1815
+
 05.02 12:00 【联动101】 B站弹幕附 【B站限】直播 meaqua一起玩LOL
 /LiveRecord/MinatoAqua/201905/20190502_1200
-
-04.26 19:00 【夸哥B限withMea】 B站弹幕附
-/LiveRecord/MinatoAqua/201904/20190426_1900
-
-04.24 23:28 【突击读空气】 B站弹幕附 KYすぎて無職になったことありますｗｗｗｗｗ(現在進行形)
-/LiveRecord/KaguraMea/201904/20190424_2328
 ```
 
 ### 先前
