@@ -47,6 +47,9 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 ### 最近
 
 ```
+05.05 21:20 【杂谈+歌】 B站弹幕附 君　ち　て木　しょう　ga　いじゃん
+/LiveRecord/KaguraMea/201905/20190505_2120
+
 05.04 18:15 【突击杂谈】 B站弹幕附 GWで散な目にあいました
 /LiveRecord/KaguraMea/201905/20190504_1815
 
