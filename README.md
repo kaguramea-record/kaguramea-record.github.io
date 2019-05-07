@@ -1,5 +1,5 @@
 >1. 关于
->2. 寻求帮助
+>2. **寻求帮助**
 >3. 下载地址
 >4. 联系方式
 >5. 更新记录
@@ -14,8 +14,8 @@
 
 当前正在进行的任务如下：
 
-* 「长期」[GitHub Issues](https://github.com/kaguramea-record/kaguramea-record.github.io/issues){:target="_blank"}
-* 「长期」2018年的录播补全计划
+* [「长期」GitHub Issues](https://github.com/kaguramea-record/kaguramea-record.github.io/issues){:target="_blank"}
+* [**「长期」2018年录播补全计划**](https://github.com/kaguramea-record/kaguramea-record.github.io/issues/7){:target="_blank"}
 
 如果有人能提供帮助的话非常感谢！
 
