@@ -47,14 +47,14 @@ youtube_{id}_{date}_{time}.info.txt 油管视频信息
 #### 最近
 
 ```
+05.10 21:00 【歌】 B站弹幕附 【アーカイブなし！】おうたします【かんちゃ】
+/LiveRecord/KaguraMea/201905/20190510_2100
+
+05.10 20:00 【nanamannin Housou】 B站弹幕附 【７万人記念】最近のお話しましょう【ありがとう】
+/LiveRecord/KaguraMea/201905/20190510_2000
+
 05.08 09:30 【splatoon】 B站弹幕附 負けるごとに顔がでかくなります
 /LiveRecord/KaguraMea/201905/20190508_0930
-
-05.06 13:55 【游戏】 B站弹幕附 ほんまおたく・・・。
-/LiveRecord/KaguraMea/201905/20190506_1355
-
-05.05 21:20 【杂谈+歌】 B站弹幕附 君　ち　て木　しょう　ga　いじゃん
-/LiveRecord/KaguraMea/201905/20190505_2120
 ```
 
 #### 先前
