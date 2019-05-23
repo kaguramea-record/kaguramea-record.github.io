@@ -1,76 +1,109 @@
->1. 关于
->2. **寻求帮助**
->3. 下载地址
->4. 联系方式
->5. 更新记录
->6. **回放问题解决方案**
->7. 鸣谢
+# The Cayman theme
 
-### 关于
+[![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
-补丁哥说可以单开就单开了。一般在直播结束后的半小时以内会同步，在等待官方录播期间可以看看，算是众多录播备份中的一个网盘分流吧。内容**按月份分文件夹**，夸哥目录由于播爆，不保证更新（求有能man。之所以说是半自动录播，因为经常会出奇怪的问题，有问题的会在一段时间后尽快补上，**联系方式**见下文。
+*Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
 
-### 寻求帮助
+![Thumbnail of Cayman](thumbnail.png)
 
-当前正在进行的任务如下：
+## Usage
 
-* [「长期」GitHub Issues](https://github.com/kaguramea-record/kaguramea-record.github.io/issues){:target="_blank"}
-* [「长期」2018年录播补全计划](https://github.com/kaguramea-record/kaguramea-record.github.io/issues/7){:target="_blank"}
+To use the Cayman theme:
 
-如果有人能提供帮助的话非常感谢！
+1. Add the following to your site's `_config.yml`:
 
-### 下载地址
+    ```yml
+    theme: jekyll-theme-cayman
+    ```
 
-[链接「百度网盘」](https://pan.baidu.com/s/16u5IpqN0MJ5S_NghWGL3NQ){:target="_blank"} 提取码：nx2f
+2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
-[备用「百度网盘」](https://pan.baidu.com/s/1Zl0MRLcxKw4lcIbDDFE9vg){:target="_blank"} 提取码：obe1
+    ```ruby
+    gem "github-pages", group: :jekyll_plugins
+    ```
 
-[BiliLocal「本地弹幕播放」](https://pan.baidu.com/s/1Oi89yTLGZoIQveYj6Ivkrg){:target="_blank"} 提取码：dbed
+## Customizing
 
-```
-{date}_{time}.flv/mp4 B站视频流
-{date}_{time}.xml B站弹幕文件
-youtube_{id}_{date}_{time}.ts 油管视频流
-youtube_{id}_{date}_{time}.info.txt 油管视频信息
-```
+### Configuration variables
 
-### 联系方式
+Cayman will respect the following variables, if set in your site's `_config.yml`:
 
-[GitHub Issue](https://github.com/kaguramea-record/kaguramea-record.github.io/issues/new/choose){:target="_blank"}
-
-[NGA原发布帖「https://bbs.nga.cn/read.php?tid=16664942」](https://bbs.nga.cn/read.php?tid=16664942){:target="_blank"}
-
-[QQ私聊「2366715664」](http://wpa.qq.com/msgrd?v=3&uin=2366715664&site=qq&menu=yes){:target="_blank"}
-
-### 更新记录
-
-#### 最近
-
-```
-05.16 00:40 【!!!一切以官方翻译为准!!!】 B站弹幕附 今回、近日に出されてしまうお話についてです
-/LiveRecord/KaguraMea/201905/20190516_0040
-
-05.14 19:00 【推特冻结】 B站弹幕附 【卒業】神楽めあツイッターが凍結されました。【助けて】
-/LiveRecord/KaguraMea/201905/20190514_1900
-
-05.13 21:20 【splatoon】 B站弹幕附 【睡眠導入剤】特訓します。
-/LiveRecord/KaguraMea/201905/20190513_2120
+```yml
+title: [The title of your site]
+description: [A short description of your site's purpose]
 ```
 
-#### 先前
+Additionally, you may choose to set the following optional variables:
 
-[changelog.log](https://raw.githubusercontent.com/kaguramea-record/kaguramea-record.github.io/master/changelog.log){:target="_blank"}
+```yml
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+```
 
-### 回放问题解决方案
+### Stylesheet
 
-1. 若弹弹play无法正常加载弹幕，请使用[BiliLocal](https://github.com/AncientLysine/BiliLocal){:target="_blank"}
+If you'd like to add your own custom styles:
 
-2. 如果你使用的播放器出现无法播放、进度条消失、时长不正常等问题，请尝试转封装为MP4后播放。转封装可以使用[小丸工具箱](https://maruko.appinn.me/){:target="_blank"}
+1. Create a file called `/assets/css/style.scss` in your site
+2. Add the following content to the top of the file, exactly as shown:
+    ```scss
+    ---
+    ---
 
-3. [转封装示意图](https://raw.githubusercontent.com/Kafuziroh/picbkp/master/20190415/-zue37Q5-2wqzK1yT3cSjz-m3.png){:target="_blank"}
+    @import "{{ site.theme }}";
+    ```
+3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
 
-### 鸣谢
+*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
 
-[Streamlink](https://github.com/streamlink/streamlink){:target="_blank"} / [youtube-dl](https://github.com/ytdl-org/youtube-dl){:target="_blank"} / [livedl](https://github.com/himananiito/livedl){:target="_blank"} / [live-stream-recorder](https://github.com/printempw/live-stream-recorder){:target="_blank"} / [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go){:target="_blank"} / [Auto_Record_Matsuri](https://github.com/fzxiao233/Auto_Record_Matsuri){:target="_blank"} / [B站录播机](http://live.weibo333.com/s/7viudi3BE){:target="_blank"}
+### Layouts
 
-![](https://raw.githubusercontent.com/Kafuziroh/picbkp/master/20190415/-zue37Q5-gddqK7ToS88-27.png)
+If you'd like to change the theme's HTML layout:
+
+1. [Copy the original template](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
+2. Create a file called `/_layouts/default.html` in your site
+3. Paste the default layout content copied in the first step
+4. Customize the layout as you'd like
+
+### Overriding GitHub-generated URLs
+
+Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+
+1. Look at [the template source](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
+2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
+    ```yml
+    github:
+      zip_url: http://example.com/download.zip
+      another_url: another value
+    ```
+3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+
+*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+
+For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
+
+## Roadmap
+
+See the [open issues](https://github.com/pages-themes/cayman/issues) for a list of proposed features (and known issues).
+
+## Project philosophy
+
+The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+
+## Contributing
+
+Interested in contributing to Cayman? We'd love your help. Cayman is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+
+### Previewing the theme locally
+
+If you'd like to preview the theme locally (for example, in the process of proposing a change):
+
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/cayman`)
+2. `cd` into the theme's directory
+3. Run `script/bootstrap` to install the necessary dependencies
+4. Run `bundle exec jekyll serve` to start the preview server
+5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+
+### Running tests
+
+The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
