@@ -12,6 +12,19 @@ description: 自动录播站列表
 | OneDrive&百度网盘 | [神楽めあ 湊あくあ + paryipro + chucolala + hololive B站/油管/TC台/T台/O台/M台 自动录播](https://bbs.nga.cn/read.php?tid=17024052) | lovezzzxxx |
 | OneDrive | [神楽めあ 湊あくあ+PPTC+CCLL+祭/紫/鬼/狐等[自动录播/手动换源]](https://bbs.nga.cn/read.php?tid=17053448) | LanotaR |
 | 百度网盘 | [夏色まつり VPS自动录播/网页更新 油管/TC台/O台/M台](https://bbs.nga.cn/read.php?tid=16872441) | FZxiao |
-| 百度网盘 | [夏色まつり VPS自动录播/网页更新 油管/TC台/O台/M台](https://bbs.nga.cn/read.php?tid=16872441) | FZxiao |
 
 [返回「Back」](./)
+
+```
+using System;
+namespace ConsoleApplication
+{
+    class KaguraMea
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("MeaMea suki ❤");
+        }
+    }
+}
+```
