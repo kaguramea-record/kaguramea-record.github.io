@@ -67,17 +67,3 @@ layout: default
 ### 鸣谢
 
 | [printempw](https://github.com/printempw){:target="_blank"} | [Streamlink](https://github.com/streamlink/streamlink){:target="_blank"} | [youtube-dl](https://github.com/ytdl-org/youtube-dl){:target="_blank"} | [livedl](https://github.com/himananiito/livedl){:target="_blank"} | [live-stream-recorder](https://github.com/printempw/live-stream-recorder){:target="_blank"} | [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go){:target="_blank"} | [Auto_Record_Matsuri](https://github.com/fzxiao233/Auto_Record_Matsuri){:target="_blank"} | [B站录播机](http://live.weibo333.com/s/7viudi3BE){:target="_blank"} |
-
-```
-using System;
-namespace ConsoleApplication
-{
-    class KaguraMea
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("MeaMea suki ❤");
-        }
-    }
-}
-```
