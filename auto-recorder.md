@@ -4,42 +4,14 @@ title: Auto Recorder List
 description: 自动录播站列表
 ---
 
-### LIST
+### Auto Recorder List | 自动录播站列表
 
-### There's a horizontal rule below this.
+| 平台 | 标题 | 提供者 |
+|:-----|:-----|:-----|
+| OneDrive | [环mea油管tctwitch全自动录播4.7已更新为P家xjb录播](https://bbs.nga.cn/read.php?tid=16682977) | GiGaFotress |
+| OneDrive&百度网盘 | [神楽めあ 湊あくあ + paryipro + chucolala + hololive B站/油管/TC台/T台/O台/M台 自动录播](https://bbs.nga.cn/read.php?tid=17024052) | lovezzzxxx |
+| OneDrive | [神楽めあ 湊あくあ+PPTC+CCLL+祭/紫/鬼/狐等[自动录播/手动换源]](https://bbs.nga.cn/read.php?tid=17053448) | LanotaR |
+| 百度网盘 | [夏色まつり VPS自动录播/网页更新 油管/TC台/O台/M台](https://bbs.nga.cn/read.php?tid=16872441) | FZxiao |
+| 百度网盘 | [夏色まつり VPS自动录播/网页更新 油管/TC台/O台/M台](https://bbs.nga.cn/read.php?tid=16872441) | FZxiao |
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-_yay_
-
-[back](./)
+[返回 | Back](./)
