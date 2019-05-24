@@ -14,4 +14,4 @@ description: 自动录播站列表
 | 百度网盘 | [夏色まつり VPS自动录播/网页更新 油管/TC台/O台/M台](https://bbs.nga.cn/read.php?tid=16872441) | FZxiao |
 | 百度网盘 | [夏色まつり VPS自动录播/网页更新 油管/TC台/O台/M台](https://bbs.nga.cn/read.php?tid=16872441) | FZxiao |
 
-[返回 | Back](./)
+[返回「Back」](./)
