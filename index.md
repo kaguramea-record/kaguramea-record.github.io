@@ -35,7 +35,7 @@ layout: default
 
 ### 联系方式
 
-| [GitHub Issue](https://github.com/kaguramea-record/kaguramea-record.github.io/issues/new/choose){:target="_blank"} | [NGA原发布帖](https://bbs.nga.cn/read.php?tid=16664942){:target="_blank"} | [QQ私聊](http://wpa.qq.com/msgrd?v=3&uin=2366715664&site=qq&menu=yes){:target="_blank"} |
+| **直接在本页面下方评论区留言** | [GitHub Issue](https://github.com/kaguramea-record/kaguramea-record.github.io/issues/new/choose){:target="_blank"} | [NGA原发布帖](https://bbs.nga.cn/read.php?tid=16664942){:target="_blank"} | [QQ私聊](http://wpa.qq.com/msgrd?v=3&uin=2366715664&site=qq&menu=yes){:target="_blank"} |
 
 ### 更新记录
 
