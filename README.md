@@ -1,7 +1,4 @@
----
-layout: default
----
-## KaguraMea Live Record
+# KaguraMea Live Record
 
 ### 鸣谢
 
