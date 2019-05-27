@@ -42,14 +42,14 @@ layout: default
 #### 最近
 
 ```
+05.27 22:00 【分手厨房】 B站弹幕附 【B限】MeAqua 協力お料理!!!!
+/LiveRecord/KaguraMea/201905/20190527_2200
+
 05.27 13:00 【sekiro】 B站弹幕附 【SEKIRO】私は何度でも繰り返す。
 /LiveRecord/KaguraMea/201905/20190527_1300
 
 05.26 21:00 【联动】 B站弹幕附 【おえかきの森】コラぼ女子女子画伯選手権！【日ノ隈らん / あにまーれ】
 /LiveRecord/KaguraMea/201905/20190526_2100
-
-05.26 11:40 【sekiro】 B站弹幕附 【プロゲーマーめあ】SEKIROを30分でクリアします。
-/LiveRecord/KaguraMea/201905/20190526_1140
 ```
 
 #### 先前
