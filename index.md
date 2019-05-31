@@ -42,14 +42,14 @@ layout: default
 #### 最近
 
 ```
+05.31 15:00 【突击杂谈】 いちじかんげんてい、ぎゅっ
+/LiveRecord/KaguraMea/201905/20190531_1500
+
 05.28 22:00 【看视频+打电话】 B站弹幕附 【B站限定】meaqua特别贴贴直播！！！
 /LiveRecord/MinatoAqua/201905/20190528_2200
 
 05.27 22:00 【分手厨房】 B站弹幕附 【B限】MeAqua 協力お料理!!!!
 /LiveRecord/KaguraMea/201905/20190527_2200
-
-05.27 13:00 【sekiro】 B站弹幕附 【SEKIRO】私は何度でも繰り返す。
-/LiveRecord/KaguraMea/201905/20190527_1300
 ```
 
 #### 先前
