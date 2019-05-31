@@ -42,6 +42,9 @@ layout: default
 #### 最近
 
 ```
+05.31 22:25 【歌】 夢も魔法もあるんだよ
+/LiveRecord/KaguraMea/201905/20190531_2225
+
 05.31 20:00 【sekiro】 【SEKIRO】私、魔法少女になる
 /LiveRecord/KaguraMea/201905/20190531_2000
 
