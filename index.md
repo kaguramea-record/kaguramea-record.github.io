@@ -42,14 +42,14 @@ layout: default
 #### 最近
 
 ```
+06.01 21:30 さよおなら(ブッ)
+/LiveRecord/KaguraMea/201906/20190601_2130
+
 05.31 22:25 【歌】 夢も魔法もあるんだよ
 /LiveRecord/KaguraMea/201905/20190531_2225
 
 05.31 20:00 【sekiro】 【SEKIRO】私、魔法少女になる
 /LiveRecord/KaguraMea/201905/20190531_2000
-
-05.31 15:00 【突击杂谈】 いちじかんげんてい、ぎゅっ
-/LiveRecord/KaguraMea/201905/20190531_1500
 ```
 
 #### 先前
