@@ -24,9 +24,9 @@ layout: default
 
 ### 下载地址
 
-| [链接「百度网盘」](https://pan.baidu.com/s/16u5IpqN0MJ5S_NghWGL3NQ){:target="_blank"}            | 提取码：nx2f |
-| [备用「百度网盘」](https://pan.baidu.com/s/1Zl0MRLcxKw4lcIbDDFE9vg){:target="_blank"}            | 提取码：obe1 |
-| [BiliLocal「本地弹幕播放」](https://pan.baidu.com/s/1Oi89yTLGZoIQveYj6Ivkrg){:target="_blank"}   | 提取码：dbed |
+| [链接「百度网盘」](https://pan.baidu.com/s/1Kjq9_u-Tf-UazC5pu_zzfg){:target="_blank"}            | 提取码：g3aw |
+| [备用「百度网盘」](https://pan.baidu.com/s/1-Bij3bk8c5NH0TU9JGwdaw){:target="_blank"}            | 提取码：drgc |
+| [BiliLocal「本地弹幕播放」](https://pan.baidu.com/s/1BMq2uXqRgH_i1Jto9tVpSA){:target="_blank"}   | 提取码：aykj |
 |:-------------------------------------------------------------------------------------------------|:-------------|
 | {date}_{time}.flv/mp4                                                                            | B站视频流    |
 | {date}_{time}.xml                                                                                | B站弹幕文件  |
