@@ -2,8 +2,7 @@
 layout: default
 ---
 
-> [自动录播站列表](./auto-recorder.html)
-> [特殊事件大傻转播台](https://www.kingkong.com.tw/4194288)
+> [自动录播站列表](./auto-recorder.html) | [特殊事件大傻转播台](https://www.kingkong.com.tw/4194288)
 
 ### 目录
 
