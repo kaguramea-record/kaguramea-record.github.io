@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Restream Stationg List
+title: Restream Station List
 description: 临时转播站列表
 ---
 
-### Restream Stationg List | 临时转播站列表
+### Restream Station List | 临时转播站列表
 
 | 平台 | 连接状态「点击进入转播间」 |
 |:-----|:---------------------------|
