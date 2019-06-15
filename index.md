@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> [自动录播站列表](./auto-recorder.html) | [临时转播站列表](./restreamer.html)
+> | [自动录播站列表](./auto-recorder.html) | [临时转播站列表](./restreamer.html) | [MEAMEA Button](https://meamea.moe/) |
 
 ### 目录
 
