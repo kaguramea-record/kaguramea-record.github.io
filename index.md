@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> | [自动录播站列表](./auto-recorder.html) | [临时转播站列表](./restreamer.html) | [MEAMEA Button](https://meamea.moe/) |
+> | [自动录播站列表](./auto-recorder.html) | [临时转播站列表](./restreamer.html) | [MEAMEA Button](https://meamea.moe/?from_sourcetag=kaguramea.live) |
 
 ### 目录
 
@@ -42,14 +42,14 @@ layout: default
 #### 最近
 
 ```
+06.24 16:25 人生は冒険だらけや！！！！
+/LiveRecord/KaguraMea/201906/20190624_1625
+
 06.19 13:20 あーかいぶ残らないよーーーーーーーー、えへへーーーー
 /LiveRecord/KaguraMea/201906/20190619_1320
 
 06.17 12:50 最近の悩み:夜まで起きてられなくて配信が夜にできない
 /LiveRecord/KaguraMea/201906/20190617_1250
-
-06.16 05:50 大天使めあめあがお送りする癒やしと憩いの場へようこそ＾＾
-/LiveRecord/KaguraMea/201906/20190616_0550
 ```
 
 #### 先前
