@@ -12,6 +12,7 @@ layout: default
 4. 更新记录
 5. **回放问题解决方案**
 6. 鸣谢
+7. 许可协议
 
 ### 寻求帮助
 
@@ -66,4 +67,10 @@ layout: default
 
 ### 鸣谢
 
-| [一般通过天狗](https://twitter.com/irohas0621){:target="_blank"} | [Streamlink](https://github.com/streamlink/streamlink){:target="_blank"} | [youtube-dl](https://github.com/ytdl-org/youtube-dl){:target="_blank"} | [B站录播机](http://live.weibo333.com/s/emi3xr3R0){:target="_blank"} | [live-stream-recorder](https://github.com/printempw/live-stream-recorder){:target="_blank"} | [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go){:target="_blank"} | [livedl](https://github.com/himananiito/livedl){:target="_blank"} | [Auto_Record_Matsuri](https://github.com/fzxiao233/Auto_Record_Matsuri){:target="_blank"} |
+| [一般通过天狗](https://twitter.com/irohas0621){:target="_blank"} | [Streamlink](https://github.com/streamlink/streamlink){:target="_blank"} | [youtube-dl](https://github.com/ytdl-org/youtube-dl){:target="_blank"} | [Biliroku](https://github.com/zyzsdy/biliroku){:target="_blank"} | [live-stream-recorder](https://github.com/printempw/live-stream-recorder){:target="_blank"} | [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go){:target="_blank"} | [livedl](https://github.com/himananiito/livedl){:target="_blank"} |
+
+### 许可协议
+
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
