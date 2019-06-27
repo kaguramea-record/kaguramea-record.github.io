@@ -28,11 +28,6 @@ layout: default
 | [链接「百度网盘」](https://pan.baidu.com/s/1Kjq9_u-Tf-UazC5pu_zzfg){:target="_blank"}            | 提取码：g3aw |
 | [备用「百度网盘」](https://pan.baidu.com/s/1-Bij3bk8c5NH0TU9JGwdaw){:target="_blank"}            | 提取码：drgc |
 | [BiliLocal「本地弹幕播放」](https://pan.baidu.com/s/1BMq2uXqRgH_i1Jto9tVpSA){:target="_blank"}   | 提取码：aykj |
-|:-------------------------------------------------------------------------------------------------|:-------------|
-| {date}_{time}.flv/mp4                                                                            | B站视频流    |
-| {date}_{time}.xml                                                                                | B站弹幕文件  |
-| youtube_{id}\_{date}\_{time}.ts                                                                  | 油管视频流   |
-| youtube_{id}\_{date}\_{time}.info.txt                                                            | 油管视频信息 |
 
 ### 联系方式
 
@@ -65,12 +60,15 @@ layout: default
 
 3. [转封装示意图](https://raw.githubusercontent.com/Kafuziroh/picbkp/master/20190415/-zue37Q5-2wqzK1yT3cSjz-m3.png){:target="_blank"}
 
-### 鸣谢
+### 关于
 
-| [一般通过天狗](https://twitter.com/irohas0621){:target="_blank"} | [Streamlink](https://github.com/streamlink/streamlink){:target="_blank"} | [youtube-dl](https://github.com/ytdl-org/youtube-dl){:target="_blank"} | [Biliroku](https://github.com/zyzsdy/biliroku){:target="_blank"} | [live-stream-recorder](https://github.com/printempw/live-stream-recorder){:target="_blank"} | [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go){:target="_blank"} | [livedl](https://github.com/himananiito/livedl){:target="_blank"} |
+感谢 [一般通过天狗](https://twitter.com/irohas0621){:target="_blank"}、[环mea录制机群](https://shang.qq.com/wpa/qunwpa?idkey=31e52a7a8e2e56ab737a9b06fe6f61bb2f92a52746adbf27e211fa946ee6cf9a){:target="_blank"} 支持
+
+This project is supported by [Amazon Web Services](https://aws.amazon.com/){:target="_blank"} & [Digital Ocean](https://www.digitalocean.com/){:target="_blank"}
+
+Server funds is provided by [GitHub Education](https://education.github.com/){:target="_blank"}
 
 ### 许可协议
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
-
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
