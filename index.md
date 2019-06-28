@@ -38,14 +38,14 @@ layout: default
 #### 最近
 
 ```
+06.28 21:00 【アーカイブなし】2次会は五反田で焼き肉パーリナイ
+/LiveRecord/KaguraMea/201906/20190628_2100
+
 06.28 20:00 【1周年】シャンパンタワー100個たてます♡【ほんとにありがとう】
 /LiveRecord/KaguraMea/201906/20190628_2000
 
 06.26 23:25 TwitCasting Live #552483084
 /LiveRecord/KaguraMea/201906/20190626_2325
-
-06.26 21:25 たいへんだぁぁぁぁあぁ１０分しかほうそうできないよぉぉっぉぉぉぉぉっぉｗ
-/LiveRecord/KaguraMea/201906/20190626_2125
 ```
 
 #### 先前
@@ -62,11 +62,11 @@ layout: default
 
 ### 关于
 
-感谢 [一般通过天狗](https://twitter.com/irohas0621){:target="_blank"}、[环mea录制机群](https://shang.qq.com/wpa/qunwpa?idkey=31e52a7a8e2e56ab737a9b06fe6f61bb2f92a52746adbf27e211fa946ee6cf9a){:target="_blank"} 支持
+感谢 [环mea录制机群](https://shang.qq.com/wpa/qunwpa?idkey=31e52a7a8e2e56ab737a9b06fe6f61bb2f92a52746adbf27e211fa946ee6cf9a){:target="_blank"} 支持
 
 This project is supported by [Amazon Web Services](https://aws.amazon.com/){:target="_blank"} & [Digital Ocean](https://www.digitalocean.com/){:target="_blank"}
 
-Server funds is provided by [GitHub Education](https://education.github.com/){:target="_blank"}
+Server is funded by [GitHub Education](https://education.github.com/){:target="_blank"}
 
 ### 许可协议
 
