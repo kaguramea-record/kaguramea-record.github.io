@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> | [自动录播站列表](./auto-recorder.html) | [临时转播站列表](./restreamer.html) | [MEAMEA Button](https://meamea.moe/?from_sourcetag=kaguramea.live) |
+> | [自动录播站列表](./auto-recorder.html) | [MEAMEA Button](https://meamea.moe/?from_sourcetag=kaguramea.live) |
 
 ### 目录
 
