@@ -27,7 +27,7 @@ layout: default
 
 | [链接「百度网盘」](https://pan.baidu.com/s/1Kjq9_u-Tf-UazC5pu_zzfg){:target="_blank"}              | 提取码：g3aw |
 | [备用「百度网盘」](https://pan.baidu.com/s/1-Bij3bk8c5NH0TU9JGwdaw){:target="_blank"}              | 提取码：drgc |
-| [PDL「百度网盘高速下载」](http://pandownload.com/?from_sourcetag=kaguramea.live){:target="_blank"} | 提取码：drgc |
+| [PDL「百度网盘高速下载」](http://pandownload.com/?from_sourcetag=kaguramea.live){:target="_blank"} | 提取码：无   |
 | [BiliLocal「本地弹幕播放」](https://pan.baidu.com/s/1BMq2uXqRgH_i1Jto9tVpSA){:target="_blank"}     | 提取码：aykj |
 
 ### 联系方式
