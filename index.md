@@ -2,26 +2,27 @@
 layout: default
 ---
 
-> | [自动录播站列表](./auto-recorder.html) | [MEAMEA Button](https://meamea.moe/?from_sourcetag=kaguramea.live) |
+> **2019.07.28 最后一次更新 此后不再进行直播相关的录制 感谢各位支持 有缘再见**
+
+
+
+> | [录播用脚本](https://github.com/Kafuziroh/live-stream-recorder) | [自动录播站列表](./auto-recorder.html) | [MEAMEA Button](https://meamea.moe/?from_sourcetag=kaguramea.live) |
 
 ### 目录
 
-1. **寻求帮助**
+1. ~~寻求帮助~~
 2. 下载地址
 3. 联系方式
 4. 更新记录
 5. **回放问题解决方案**
-6. 鸣谢
+6. 关于
 7. 许可协议
 
-### 寻求帮助
+### ~~寻求帮助~~
 
-当前正在进行的任务如下：
+~~当前正在进行的任务如下：~~
 
-* [「长期」GitHub Issues](https://github.com/kaguramea-record/kaguramea-record.github.io/issues){:target="_blank"}
-* [「长期」2018年录播补全计划](https://github.com/kaguramea-record/kaguramea-record.github.io/issues/7){:target="_blank"}
-
-如果有人能提供帮助的话非常感谢！
+~~如果有人能提供帮助的话非常感谢！~~
 
 ### 下载地址
 
@@ -39,14 +40,16 @@ layout: default
 #### 最近
 
 ```
+07.28 22:25 メンバーシップ限定になってますか？こんばんわ？【第一次测试】
+07.28 22:33 メンバーシップ限定になってますか？こんばんわ？【第二次测试】
+07.28 22:39 メンバーシップ限定になってますか？こんばんわ？【第三次测试】
+/LiveRecord/201907/20190728_2225
+
 07.28 17:45 【雑談...?】可愛い女を見つけにいく。【Vtuber探索】
 /LiveRecord/201907/20190728_1745
 
 07.27 21:00 【B限】转发抽奖活动!!!直播抽选!!
 /LiveRecord/201907/20190727_2100
-
-07.27 19:30 うっ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
-/LiveRecord/201907/20190727_1930
 ```
 
 #### 先前
