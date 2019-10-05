@@ -4,6 +4,8 @@ title: Auto Recorder List
 description: 自动录播站列表
 ---
 
+> **注：本页内容具有时效性 更新截止至2019.07.28**
+
 ### Auto Recorder List | 自动录播站列表
 
 | 平台 | 标题 | 提供者 |
