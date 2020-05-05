@@ -1,4 +1,4 @@
-# KaguraMea Live Record
+# 「Deprecated」KaguraMea Live Record
 
 # Lisence
 

@@ -4,7 +4,7 @@ layout: default
 
 > **2019.07.28 最后一次更新 此后不再进行直播相关的录制 感谢各位支持 有缘再见**
 
-> | [录播用脚本](https://github.com/Kafuziroh/live-stream-recorder) | [自动录播站列表](./auto-recorder.html) | [MEAMEA Button](https://meamea.moe/?from_sourcetag=kaguramea.live) |
+> | [录播用脚本](https://github.com/amzrk2/live-stream-recorder) | [自动录播站列表](./auto-recorder.html) | [MEAMEA Button](https://meamea.moe/?from_sourcetag=kaguramea-record.github.io) |
 
 ### 目录
 
@@ -31,7 +31,7 @@ layout: default
 
 ### 联系方式
 
-| **直接在本页面下方评论区留言** | [GitHub Issue](https://github.com/kaguramea-record/kaguramea-record.github.io/issues/new/choose){:target="_blank"} | [NGA原发布帖](https://bbs.nga.cn/read.php?tid=16664942){:target="_blank"} | [QQ私聊](http://wpa.qq.com/msgrd?v=3&uin=2366715664&site=qq&menu=yes){:target="_blank"} | [邮箱](mailto:dsrca@outlook.com){:target="_blank"} |
+| **直接在本页面下方评论区留言** | [GitHub Issue](https://github.com/kaguramea-record/kaguramea-record.github.io/issues/new/choose){:target="_blank"} | [NGA原发布帖](https://bbs.nga.cn/read.php?tid=16664942){:target="_blank"} | [邮箱](mailto:mail@amzrk2.cc){:target="_blank"} |
 
 ### 更新记录
 
@@ -64,7 +64,7 @@ layout: default
 
 ### 关于
 
-感谢 [环mea录制机群](https://shang.qq.com/wpa/qunwpa?idkey=31e52a7a8e2e56ab737a9b06fe6f61bb2f92a52746adbf27e211fa946ee6cf9a){:target="_blank"} 支持
+感谢 环mea录制机群 支持
 
 This project is supported by [Amazon Web Services](https://aws.amazon.com/){:target="_blank"} & [Digital Ocean](https://www.digitalocean.com/){:target="_blank"}
 
